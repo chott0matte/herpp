@@ -16,6 +16,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'private_pub'
 gem 'thin'
+gem 'foreman'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
